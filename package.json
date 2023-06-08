@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "node": "^20.2.0"
+  },
+  "scripts": {
+    "start": "node index.html"
+  }
+}
